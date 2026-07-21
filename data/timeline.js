@@ -190,7 +190,9 @@ const timeline = [
         items: [
             {
                 title: "Investigated and resolved a large-scale Terraform provider drift issue impacting multiple teams — tracked provider releases, engaged upstream maintainers, and contributed to a permanent fix across the open-source ecosystem.",
-                tag: "Open Source"
+                tag: "Open Source",
+                link: "https://github.com/hashicorp/terraform-provider-azurerm/pull/30913",
+                linkText: "View GitHub Issue"
             },
             {
                 title: "Took ownership of a large-scale platform migration, resolved complex deployment blockers, and completed migration across approximately 50 enterprise environments.",
