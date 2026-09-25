@@ -1,6 +1,16 @@
 const timeline = [
 
     {
+        month: "Aug 2026",
+        items: [
+            {
+                title: "Implemented a solution to prevent bypassing of mandatory Security reviews for Landing Zone pull requests.",
+                tag: "Security"
+            }
+        ]
+    },
+
+    {
         month: "Jul 2026",
         items: [
             {
